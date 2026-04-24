@@ -102,4 +102,4 @@ Gayden Jamba
 ---
 
 ## GitHub Repository
-(Add your GitHub link here after uploading)
+(https://github.com/gjambaieu2025-netizen/Interest-Compatibility-App)
